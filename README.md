@@ -1,7 +1,7 @@
 # Hi, I’m Charles Pugh
 
 **Google-certified Data Analyst**  
-🔎 Transforming data into actionable insights and impactful stories.
+Transforming data into actionable insights and impactful stories.
 
 ---
 
