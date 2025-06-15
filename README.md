@@ -5,7 +5,7 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
 I’m passionate about making data meaningful. With expertise in Python, SQL, Power BI, Tableau, Excel, Google Sheets, and R, I help organizations turn raw information into clear, actionable decisions.  
 
@@ -13,7 +13,7 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [Data Cleaning with Pandas & Python](https://github.com/charlespughtech/data_cleaning_pandas_python)  
   This project involves cleaning a Customer Call List dataset using Pandas to prepare it for a contact center. The dataset, sourced from a CSV file, requires several cleaning steps to address issues such as duplicates, inconsistent formatting, missing values, and irrelevant data. The final cleaned dataset is saved as an Excel file for further use.
@@ -29,7 +29,7 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages/Tools:** Python, SQL, R
 - **BI & Visualization:** Power BI, Tableau
@@ -37,7 +37,7 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/charlespughtech/)
 - [Email](mailto:charlespughtech@gmail.com)
