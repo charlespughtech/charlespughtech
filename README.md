@@ -13,22 +13,6 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ---
 
-## Featured Projects
-
-- [Data Cleaning with Pandas & Python](https://github.com/charlespughtech/data_cleaning_pandas_python)  
-  This project involves cleaning a Customer Call List dataset using Pandas to prepare it for a contact center. The dataset, sourced from a CSV file, requires several cleaning steps to address issues such as duplicates, inconsistent formatting, missing values, and irrelevant data. The final cleaned dataset is saved as an Excel file for further use.
-
-- [Data Professional Survey Power BI](https://github.com/charlespughtech/data_professional_survey_power_bi)  
-  Interactive Power BI dashboard - includes cleaning, analyzing, and visualizing data professional survey data.
-
-- [World Layoffs SQL](https://github.com/charlespughtech/world_layoffs_sql_)
-  MySQL project analysing global layoff data. Used staging tables to keep raw CSV intact, cleaned data (trim, nulls, deduplication), and analysed trends using SQL: CTEs, window functions, and aggregates. Full logic split into cleaning and EDA SQL scripts.
-  
-- [Bike Sales Excel Dashboard](https://github.com/charlespughtech/dashboard_project_excel)
-  Excel dashboard project, cleaning, analysing and visualising bike sales data.
-
----
-
 ## Skills
 
 - **Languages/Tools:** Python, SQL, R
