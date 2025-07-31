@@ -26,6 +26,7 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 - [LinkedIn](https://www.linkedin.com/in/charlespughtech/)
 - [Email](mailto:charlespughtech@gmail.com)
 - [GitHub](https://github.com/charlespughtech)
+- [Portfolio Website](https://charlespughtech.github.io/)
 
 ---
 
