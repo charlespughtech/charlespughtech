@@ -21,10 +21,6 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/charlespughtech/)
@@ -34,4 +30,8 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ---
 
-_Always eager to collaborate, learn, and explore new data adventures! Reach out if you are interested in working together._
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,typescript,glsl,css)
+
+---
+
+_I am always eager to collaborate, learn, and explore new data adventures! Reach out if you are interested in working together._
