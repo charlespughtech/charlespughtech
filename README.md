@@ -30,7 +30,7 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlespughtech&show_icons=true&theme=dark )](https://github.com/charlespughtech/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlespughtech&show_icons=true&theme=graywhite )](https://github.com/charlespughtech/github-readme-stats)
 ---
 
 _I am always eager to collaborate, learn, and explore new data adventures! Reach out if you are interested in working together._
