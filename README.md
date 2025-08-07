@@ -30,7 +30,7 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,typescript,glsl,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlespughtech&hide=javascript,html,typescript,glsl,css)
 
 ---
 
