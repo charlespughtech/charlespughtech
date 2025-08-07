@@ -15,7 +15,7 @@ I love tackling real-world challenges and sharing my journey as I grow in the wo
 
 ## Skills
 
-- **Languages/Tools:** Python, SQL, R
+- **Languages/Tools:** SQL, Python, R
 - **BI & Visualization:** Power BI, Tableau
 - **Spreadsheets:** Microsoft Excel, Google Sheets
 
