@@ -11,6 +11,9 @@ I’m passionate about making data meaningful. With expertise in Python, SQL, Po
 
 I love tackling real-world challenges and sharing my journey as I grow in the world of data analytics.
 
+"True insight in analytics emerges when data's patterns reveal not just answers, but the thought-provoking questions worth asking."
+— Charles Pugh
+
 ---
 
 ## Skills
