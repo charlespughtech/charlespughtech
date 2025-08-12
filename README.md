@@ -20,7 +20,7 @@ I help organizations turn raw information into clear, actionable decisions and l
 
 ## Skills
 
-- **Languages/Tools:** SQL, Python, R
+- **Languages:** SQL, Python, R
 - **BI & Visualization:** Power BI, Tableau
 - **Spreadsheets:** Microsoft Excel, Google Sheets
 
