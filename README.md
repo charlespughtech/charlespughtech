@@ -7,12 +7,12 @@ Transforming data into actionable insights and impactful stories.
 
 ## About Me
 
-I’m passionate about making data meaningful. With expertise in Python, SQL, Power BI, Tableau, Excel, Google Sheets, and R, I help organizations turn raw information into clear, actionable decisions.  
+I’m passionate about making data meaningful. With expertise in SQL, Power BI, Tableau,Python, Excel, Google Sheets, and R.
 
-I love tackling real-world challenges and sharing my journey as I grow in the world of data analytics.
+I help organizations turn raw information into clear, actionable decisions and love tackling real-world challenges while sharing my journey as I grow in the world of data analytics.
 
-"True insight in analytics emerges when data's patterns reveal not just answers, but the thought-provoking questions worth asking."
-— Charles Pugh
+*"True insight in analytics emerges when data's patterns reveal not just answers, but the thought-provoking questions worth asking."*
+**— Charles Pugh**
 
 ---
 
