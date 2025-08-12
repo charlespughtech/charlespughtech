@@ -11,6 +11,7 @@ I’m passionate about making data meaningful. With expertise in SQL, Power BI, 
 
 I help organizations turn raw information into clear, actionable decisions and love tackling real-world challenges while sharing my journey as I grow in the world of data analytics.
 
+
 *"True insight in analytics emerges when data's patterns reveal not just answers, but the thought-provoking questions worth asking."*
 
 **— Charles Pugh**
