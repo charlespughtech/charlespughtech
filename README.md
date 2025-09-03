@@ -37,8 +37,6 @@ I help organizations turn raw information into clear, actionable decisions and l
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlespughtech&show_icons=true&bg_color=00000000&theme=apprentice)](https://github.com/charlespughtech/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlespughtech&layout=compact&theme=dark)
-
 ---
 
 _I am always eager to collaborate, learn, and explore new data adventures! Reach out if you are interested in working together._
