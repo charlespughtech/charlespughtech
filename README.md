@@ -32,6 +32,7 @@ I help organizations turn raw information into clear, actionable decisions and l
 - [Email](mailto:charlespughtech@gmail.com)
 - [GitHub](https://github.com/charlespughtech)
 - [Portfolio Website](https://charlespughtech.github.io/)
+- [Tableau Public](https://public.tableau.com/app/pr ofile/charlespughtech/vizzes)
 
 ---
 
