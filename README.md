@@ -6,7 +6,7 @@
 
 ---
 
-## Connect with Me
+## 🔗 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/charlespughtech/) | 
 [Email](mailto:charlespughtech@gmail.com?subject=IMPORTANT:%20DATA%20ANALYTICS%20ENQUIRY&body=Hi%20Charles,%0A%0AMy%20name%20is%20[INSERT%20YOUR%20NAME%20HERE],%20I%20am%20reaching%20out%20because%20I%20am%20interested%20in%20your%20data%20analytics%20services.%0A%0AMy%20contact%20details%20are:%0A[INSERT%20YOUR%20EMAIL%20HERE]%0A[INSERT%20YOUR%20PHONE%20NUMBER%20HERE]%0A[INSERT%20YOUR%20LINKEDIN/GITHUB/WEBSITE%20HERE]%0A%0AKind%20Regards,%0A[INSERT%20YOUR%20NAME%20HERE]%0A[INSERT%20YOUR%20COMPANY%20NAME%20HERE]) | 
 [GitHub](https://github.com/charlespughtech) | 
@@ -15,7 +15,7 @@
 
 ---
 
-## About Me
+## 👤 About Me
 
 - I am a Google-certified data analyst with experience working on multiple data projects.
 - I’m passionate about making data meaningful by leveraging data, technology, and critical-thinking to solve real-world problems and deliver impactful solutions.
