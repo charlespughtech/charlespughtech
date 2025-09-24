@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Charles Pugh!
-— **Google-certified Data Analyst**
+**Google-certified Data Analyst**
 
 ---
 
