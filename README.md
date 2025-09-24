@@ -41,16 +41,16 @@
 
 ## 🚀 Featured Projects
 
-- [Tableau Sales & Customer Project](https://github.com/charlespughtech/tableau_sales_and_customer_project)  
+[Tableau Sales & Customer Project](https://github.com/charlespughtech/tableau_sales_and_customer_project)  
   Interactive dashboards and analytics for sales and customer insights using Tableau.
 
-- [SQL Exploratory Data Analysis Project](https://github.com/charlespughtech/sql_exploratory_data_analysis_project)  
+[SQL Exploratory Data Analysis Project](https://github.com/charlespughtech/sql_exploratory_data_analysis_project)  
   Comprehensive data exploration and analysis using advanced SQL techniques.
 
-- [SQL Data Warehouse Project](https://github.com/charlespughtech/sql_data_warehouse_project)  
+[SQL Data Warehouse Project](https://github.com/charlespughtech/sql_data_warehouse_project)  
   End-to-end data warehouse design and implementation for scalable analytics.
 
-- [My Personal Website](https://github.com/charlespughtech/charlespughtech.github.io)  
+[My Personal Website](https://github.com/charlespughtech/charlespughtech.github.io)  
   Explore my portfolio, blog, and more on my personal site.
 
 ---
