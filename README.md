@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm Charles Pugh! — **Google-certified Data Analyst**
-
----
+# 👋 Hi there, I'm Charles Pugh!
+— **Google-certified Data Analyst**
 
 Here you'll find a collection of my projects, experiments, and contributions across data analytics, software development, and digital innovation.
 
