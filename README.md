@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Charles Pugh!
-**Google-certified Data Analyst**  
 
-Welcome to my GitHub profile!
+**Google-certified Data Analyst**  
 
 ---
 
