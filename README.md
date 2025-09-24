@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Charles Pugh!
-
-**Google-certified Data Analyst**
+# 👋 Hi there, I'm Charles Pugh! — **Google-certified Data Analyst**
 
 ---
 
