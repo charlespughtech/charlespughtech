@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Charles Pugh!
 
-**Google-certified Data Analyst**  
+**Google-certified Data Analyst**
+
+- Here you'll find a collection of my projects, experiments, and contributions across data analytics, software development, and digital innovation.
 
 ---
 
@@ -15,8 +17,8 @@
 
 ## About Me
 
+- I am a Google-certified data analyst with experience working on multiple data projects.
 - I’m passionate about making data meaningful by leveraging data, technology, and creativity to solve real-world problems and deliver impactful solutions.
-- Here you'll find a collection of my projects, experiments, and contributions across data analytics, software development, and digital innovation.
 - I turn raw data into clear, actionable decisions and love tackling real-world challenges while sharing my journey as I grow in the world of data analytics.
 
 ---
