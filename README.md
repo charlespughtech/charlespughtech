@@ -59,5 +59,4 @@
 
 ---
 
-_I am always eager to collaborate, learn, and explore new data adventures! [Reach out](mailto:charlespughtech@gmail.com?subject=IMPORTANT:%20DATA%20ANALYTICS%20ENQUIRY&body=Hi%20Charles,%0A%0AMy%20name%20is%20[INSERT%20YOUR%20NAME%20HERE],%20I%20am%20reaching%20out%20because%20I%20am%20interested%20in%20your%20data%20analytics%20services.%0A%0AMy%20contact%20details%20are:%0A[INSERT%20YOUR%20EMAIL%20HERE]%0A[INSERT%20YOUR%20PHONE%20NUMBER%20HERE]%0A[INSERT%20YOUR%20LINKEDIN/GITHUB/WEBSITE%20HERE]%0A%0AKind%20Regards,%0A[INSERT%20YOUR%20NAME%20HERE]%0A[INSERT%20YOUR%20COMPANY%20NAME%20HERE]) | 
-[GitHub](https://github.com/charlespughtech) if you are interested in working together._
+_I am always eager to collaborate, learn, and explore new data adventures! [Reach out](mailto:charlespughtech@gmail.com?subject=IMPORTANT:%20DATA%20ANALYTICS%20ENQUIRY&body=Hi%20Charles,%0A%0AMy%20name%20is%20[INSERT%20YOUR%20NAME%20HERE],%20I%20am%20reaching%20out%20because%20I%20am%20interested%20in%20your%20data%20analytics%20services.%0A%0AMy%20contact%20details%20are:%0A[INSERT%20YOUR%20EMAIL%20HERE]%0A[INSERT%20YOUR%20PHONE%20NUMBER%20HERE]%0A[INSERT%20YOUR%20LINKEDIN/GITHUB/WEBSITE%20HERE]%0A%0AKind%20Regards,%0A[INSERT%20YOUR%20NAME%20HERE]%0A[INSERT%20YOUR%20COMPANY%20NAME%20HERE]) if you are interested in working together._
