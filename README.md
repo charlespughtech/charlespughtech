@@ -2,7 +2,7 @@
 
 **Google-certified Data Analyst**
 
-- Here you'll find a collection of my projects, experiments, and contributions across data analytics, software development, and digital innovation.
+> Here you'll find a collection of my projects, experiments, and contributions across data analytics, software development, and digital innovation.
 
 ---
 
