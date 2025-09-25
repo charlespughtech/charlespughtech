@@ -51,7 +51,7 @@ Here you'll find a collection of my projects, experiments, and contributions acr
 [SQL Data Warehouse Project](https://github.com/charlespughtech/sql_data_warehouse_project)  
   End-to-end data warehouse design and implementation for scalable analytics.
 
-[data_professional_survey_power_bi](https://github.com/charlespughtech/data_professional_survey_power_bi)
+[Data Professional Survey Power BI](https://github.com/charlespughtech/data_professional_survey_power_bi)
   Power BI project for cleaning, analyzing, and visualizing data professional survey data.
   
 [My Personal Website](https://github.com/charlespughtech/charlespughtech.github.io)  
